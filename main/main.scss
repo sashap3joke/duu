@@ -1,0 +1,44 @@
+.main {
+  background-color: #708AB2;
+  color: #FFFFFF;
+  min-height: 100vh;
+
+  .navbar-toggler.toggler-example {
+    cursor: pointer;
+    border: none;
+
+    span {
+      display: block;
+      background-color: white;
+      width: 18px;
+      height: 2px;
+      margin-bottom: 5px;
+    }
+  }
+
+  .navbar-brand {
+    color: white;
+  }
+
+  .navbar-info {
+    position: relative;
+
+    .badge {
+      position: absolute;
+      right: -10px;
+      top: -6px;
+    }
+  }
+
+  &__links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    a{
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+  }
+}

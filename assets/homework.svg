@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="210" viewBox="0 0 296 210">
+  <g id="Group_340" data-name="Group 340" transform="translate(-40 -106)">
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="105" cy="105" r="105" transform="translate(83 106)" fill="#87a7d5" opacity="0.657"/>
+    <g id="icon_1_" transform="translate(127 123.461)">
+      <g id="Group_35" data-name="Group 35" transform="translate(10.89)">
+        <path id="Path_63" data-name="Path 63" d="M169.815,50.03A25.015,25.015,0,1,0,144.8,25.015,25.031,25.031,0,0,0,169.815,50.03Z" transform="translate(-120.625 0)" fill="#fff"/>
+        <path id="Path_64" data-name="Path 64" d="M98.493,286.111V245.332l24.458-10.776v25.33l8.427,11.963a7.508,7.508,0,1,0,12.277-8.645s-10.606-17.242-19.251-28.792c-2.4-3.2-12.568-15.111-29.252-15.111-17.774,0-27.727,12.616-30.439,16.3-8.5,11.5-18.38,27.606-18.38,27.606a7.508,7.508,0,1,0,12.277,8.645l8.112-11.527V234.556L91.18,245.332v40.779h7.313Z" transform="translate(-44.969 -166.195)" fill="#fff"/>
+        <path id="Path_65" data-name="Path 65" d="M346.84,364.361c2.93,2.252,7.337,1.429,9.88-1.865h0c2.543-3.293,2.2-7.773-.7-10.025l-16.66-12.641c-2.93-2.252-7.337-1.429-9.88,1.865h0c-2.518,3.293-2.2,7.773.7,10.025Z" transform="translate(-259.293 -256.577)" fill="#fff"/>
+        <path id="Path_66" data-name="Path 66" d="M58.357,364.361c-2.93,2.252-7.337,1.429-9.88-1.865h0c-2.518-3.293-2.2-7.773.7-10.025l16.66-12.641c2.93-2.252,7.337-1.429,9.88,1.865h0c2.518,3.293,2.2,7.773-.7,10.025Z" transform="translate(-46.339 -256.577)" fill="#fff"/>
+      </g>
+      <path id="Path_67" data-name="Path 67" d="M121.8,466.074c0,2.591-2.906,4.674-6.49,4.674H6.49c-3.584,0-6.49-2.083-6.49-4.674H0c0-2.591,2.906-4.674,6.49-4.674h108.8c3.608,0,6.514,2.107,6.514,4.674Z" transform="translate(0 -349.669)" fill="#fff"/>
+    </g>
+    <text id="Домашнее_задание" data-name="Домашнее
+задание" transform="translate(40 259)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="108.359" y="14">Домашнее</tspan><tspan x="117.43" y="32">задание</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+.main{background-color:#708ab2;color:#fff;min-height:100vh}.main .navbar-toggler.toggler-example{cursor:pointer;border:none}.main .navbar-toggler.toggler-example span{display:block;background-color:#fff;width:18px;height:2px;margin-bottom:5px}.main .navbar-brand{color:#fff}.main .navbar-info{position:relative}.main .navbar-info .badge{position:absolute;right:-10px;top:-6px}.main__links{display:flex;flex-direction:column;justify-content:center;align-items:center}.main__links a{margin-top:30px;margin-bottom:30px}
+#navbar{width:80%;height:23px}#navbar ul{list-style-type:none}#navbar li{float:left}#navbar li a{font-weight:700}
+div{width:foo(42px);height:bar(42px)}
+div{color:foo("bar")}
+.outside{color:red}
