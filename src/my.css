@@ -1,0 +1,21 @@
+hr {
+  border: none;
+  background-color: gray;
+  color: gray;
+  height: 2px;
+}
+.person__img {
+  padding: 20px 0px 0px 0px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: block;
+}
+.name {
+font-size: 20px;
+margin-bottom: 0%;
+text-align: center;
+}
+.adress {
+  font-size: 10px;
+  text-align: center;
+}
