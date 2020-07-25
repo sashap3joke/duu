@@ -1,13 +1,16 @@
 hr {
   border: none;
-  background-color: gray;
-  color: gray;
+  background-color: red;
+  color: red;
   height: 2px;
 }
+.person{
+  width: 40%;
+}
 .person__img {
-  padding: 20px 0px 0px 0px;
+  margin: 20px 0px 0px 0px;
   border-radius: 50%;
-  overflow: hidden;
+  width: 100%;
   display: block;
 }
 .name {
@@ -18,4 +21,18 @@ text-align: center;
 .adress {
   font-size: 10px;
   text-align: center;
+}
+.side-menu {
+  position: fixed;
+  width: 40%;
+  height: 100%;
+  background-color: grey;
+  /*left ?+*/
+  top: 0;
+  z-index: 10;
+  padding: 30px 0 0 15px;
+}
+.menu-burger {
+  position: relative;
+  z-index: 100;
 }
